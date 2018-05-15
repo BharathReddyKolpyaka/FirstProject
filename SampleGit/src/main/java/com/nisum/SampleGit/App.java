@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println( "This commit is from  branch_01" );
-
+        System.out.println( "This commit is from  branch_01 to Master branch" );
+        System.out.println( "This commit is from  branch_01 to Master branch" );
     }
 }
